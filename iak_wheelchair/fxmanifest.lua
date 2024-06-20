@@ -5,8 +5,9 @@ author 'Iakkoise'
 description 'A drivable wheelchair'
 url 'https://github.com/AndreIakko/wheelchair'
 
-version '1.0.1'
+version '1.0.2'
 
+client_script 'client.lua'
 
 files {
 	'data/vehicles.meta',
